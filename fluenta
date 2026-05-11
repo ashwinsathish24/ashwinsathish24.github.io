@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+window.location.href = "fluenta://open";
+</script>
+</body>
+</html>
